@@ -1,0 +1,23 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "Weather project for Microverse",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FdI96/WeatherApp.git"
+  },
+  "author": "Federico Ignacio Lopez Cechini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FdI96/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/FdI96/WeatherApp#readme",
+  "devDependencies": {
+    "webpack": "^5.41.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
